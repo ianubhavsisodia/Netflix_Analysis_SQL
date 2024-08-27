@@ -1,6 +1,5 @@
 # Netflix_analysis_SQL
 
-## Title of the Project:
 Netflix Originals Data Analysis: Exploring Trends and Insights
 
 
